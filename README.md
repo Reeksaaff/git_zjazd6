@@ -1,1 +1,2 @@
-# projekt_dyplomowy
+# git_zjazd6
+NOWY
